@@ -8,7 +8,8 @@ Something about me :)
 - SQL knowledge.
 - I'm trying to learn the basic of frontend dev to make my own portfolio page.
 
-### It's only about work and have fun! :)
+### It's only about works and have fun! :)
+
 <!---
 LucaBrescia/LucaBrescia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
