@@ -1,7 +1,7 @@
 # Hello!
 Something about me :)
 
-- Currently, i'm pursuing the MD in electronics.
+- Currently, i'm pursuing the MD in electronic engineering.
 - Working as firmware developer.
 - Favourites programming languages C, Python, VB.net
 - Sometimes i work on some Java and Kotlin projects
