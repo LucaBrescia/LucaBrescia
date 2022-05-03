@@ -68,5 +68,5 @@ Latex is the only way. </br></br>
 
 
 ## Author
-
-- [@LucaBrescia](https://github.com/LucaBrescia)
+![badge](https://img.shields.io/badge/bsluca%40master-Deployment-blue)
+[@LucaBrescia](https://github.com/LucaBrescia)
