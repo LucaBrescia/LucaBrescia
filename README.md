@@ -59,8 +59,7 @@ Latex is the only way. </br></br>
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
-## Reach me on
-</br>
+## Reach me on </br>
 ![skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)
 
 ## 🔗 Links
